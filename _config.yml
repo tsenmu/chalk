@@ -14,10 +14,10 @@ ga_analytics: UA-28631876-6
 rss_enabled: true
 social:
   dribbble: https://dribbble.com/nielsenramon
-  facebook: # Add your Facebook link
   github: https://github.com/nielsenramon
-  linkedin: # Add your LinkedIn link
   twitter: nielsenramon
+  facebook: # Add your Facebook link
+  linkedin: # Add your LinkedIn link
 
 # Important settings (change at own risk)
 
