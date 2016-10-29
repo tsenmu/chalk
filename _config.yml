@@ -4,20 +4,20 @@ baseurl: /
 name: Chalk
 paginate: 25
 paginate_path: "/posts/page/:num/"
-url: http://chalk.nielsenramon.com # add site url http://example.com/
-blog_theme: light # Or use dark
+url: http://chalk.nielsenramon.com
+blog_theme: light
 
 # Optional settings
 
-discus_identifier: # Add your Disqus identifier
-ga_analytics: # Add your GA Tracking Id
-rss_enabled: true # Change to false if not
+discus_identifier: chalk-1
+ga_analytics: UA-28631876-6
+rss_enabled: true
 social:
-  dribbble: # Add your Dribbble link
+  dribbble: https://dribbble.com/nielsenramon
   facebook: # Add your Facebook link
-  github: # Add your GitHub link
+  github: https://github.com/nielsenramon
   linkedin: # Add your LinkedIn link
-  twitter: nielsenramon # Add your Twitter handle
+  twitter: nielsenramon
 
 # Important settings (change at own risk)
 
