@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Introducing chalk"
-description: "Chalk is a high quality, completely customisable, performant and 100% free blog template for Jekyll."
-tags: [web, jekyll]
+title: "Placeholder"
+description: "This is a placeholder for the notes."
+tags: [design]
 ---
 
 {% include image.html path="documentation/chalk-intro.png" path-detail="documentation/chalk-intro@2x.png" alt="Chalk intro" %}
@@ -66,6 +66,8 @@ bundle exec jekyll serve
 ## Deploy to GitHub Pages
 
 Run this in the root project folder in your console:
+
+$$a^2 + b^2 = c^2$$
 
 {% highlight bash %}
 bin/deploy
