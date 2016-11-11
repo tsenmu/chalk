@@ -1,7 +1,7 @@
 # Mandatory settings
 
 baseurl: /notes/
-name: Jingjie's Notes
+name: Notes
 paginate: 25 
 paginate_path: "posts/page/:num/"
 url: http://www.jingjiezheng.com/notes/
@@ -12,7 +12,7 @@ discus_identifier: # Add your Disqus identifier
 ga_analytics: UA-53571050-2
 rss_enabled: true # Change to false if not
 social:
-  home: http://www.jingjiezheng.com
+  home: http://www.jingjiezheng.com/notes/
   dribbble: # Add your Dribbble handle
   facebook: # Add your Facebook handle
   github: # Add your GitHub handle
