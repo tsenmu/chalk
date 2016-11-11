@@ -1,6 +1,6 @@
 # Mandatory settings
 
-baseurl: /
+baseurl: /notes/
 name: Jingjie's Notes
 paginate: 25
 paginate_path: "/posts/page/:num/"
@@ -25,6 +25,7 @@ social:
 # Important settings (change at own risk)
 
 assets:
+  prefix: "/notes/assets"
   compress:
     css: true
     js: true
