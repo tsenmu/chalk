@@ -2,7 +2,7 @@
 
 baseurl: /notes/
 name: Jingjie's Notes
-paginate: 2
+paginate: 25 
 paginate_path: "posts/page/:num/"
 url: http://www.jingjiezheng.com/notes/
 blog_theme: light # Or use dark
